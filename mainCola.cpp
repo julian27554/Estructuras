@@ -1,4 +1,4 @@
-#include "cola.cpp"
+#include "Cola.cpp"
 #include <stdexcept>
 int main () 
 {
